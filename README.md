@@ -6,7 +6,7 @@
     Matéria: Paradigmas de Programação
 
 ## Tecnologias utilizadas
-
+1. **Lua:** Linguagem de Programação.
 
 ## Método utilizado: 
 
