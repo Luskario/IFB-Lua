@@ -27,3 +27,7 @@ Andressa - Onde se utiliza/indicado para quê;
 Arthur - Mercado de trabalho;
 Arthur - Associação com nos cursos de Bacharelado e/ou Licenciatura em Computação (Justificar se é relevante ser vista no curso? );
 Lucas - Desenvolver uma aplicação que demonstre as características da linguagem.
+
+## Executando o Programa
+- Para o Ubuntu basta abrir a pasta “/exe” presente no projeto, e rodar o arquivo “asteroids_ubuntu”.
+- Para o Windows 10 basta abrir a pasta “/exe” presente no projeto e descompactar o arquivo “asteroids_windows.zip”, posteriormente acessar a pasta descompactada e rodar o arquivo “asteroids_windows.exe".
