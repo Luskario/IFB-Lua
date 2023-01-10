@@ -9,7 +9,8 @@
 1. **Lua:** Linguagem de Programação.
 2. **Love2d:** Engine de jogos
 
-## Método utilizado: 
+## Método utilizado: Desenvolvimento iterativo e incremental
+> * Desenvolvimento é iniciado com um subconjunto simples de Requisitos de Software e iterativamente alcança evoluções subsequentes das versões até o sistema todo estar implementado*
 
 
 ## Lista de atividades com uma provável data de entrega 
