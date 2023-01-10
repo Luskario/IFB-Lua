@@ -7,6 +7,7 @@
 
 ## Tecnologias utilizadas
 1. **Lua:** Linguagem de Programação.
+2. **Love2d** Engine de jogos
 
 ## Método utilizado: 
 
